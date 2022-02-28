@@ -1,0 +1,1089 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>England's palladion, or, Britain's naval-glory expressed in a panegyrick, beginning with a loyal salutation of the Royal Navie : with three additional poems I. A congratulation on the late victory, &amp;c. II. The burning island, &amp;c. III. A præmonition to the states of Holland / by T.S. ...</title>
+            <author>Sympson, Thomas, supposed author.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1666</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 41 KB of XML-encoded text transcribed from 14 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A93278</idno>
+            <idno type="STC">Wing S3829</idno>
+            <idno type="STC">ESTC R43927</idno>
+            <idno type="EEBO-CITATION">42476341</idno>
+            <idno type="OCLC">ocm 42476341</idno>
+            <idno type="VID">151335</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A93278)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 151335)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2255:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>England's palladion, or, Britain's naval-glory expressed in a panegyrick, beginning with a loyal salutation of the Royal Navie : with three additional poems I. A congratulation on the late victory, &amp;c. II. The burning island, &amp;c. III. A præmonition to the states of Holland / by T.S. ...</title>
+                  <author>Sympson, Thomas, supposed author.</author>
+               </titleStmt>
+               <extent>[4], 18 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Printed in the Year M. DC.LXVI [1666]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: 1 leaf unsigned, A-B⁴, C².</note>
+                  <note>Contains marginal notes.</note>
+                  <note>"Upon a view of them in July last" signed: Tho. Sympson.</note>
+                  <note>Reproduction of original in: William Andrews Clark Memorial Library, University of California, Los Angeles.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Royal Navy --  Poetry.</term>
+               <term>Great Britain --  History, Naval --  Stuarts, 1603-1714.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2014-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-02</date>
+            <label>Anne Simpson</label>Sampled and proofread</change>
+         <change>
+            <date>2014-02</date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:151335:1"/>
+            <pb facs="tcp:151335:2" rendition="simple:additions"/>
+            <pb facs="tcp:151335:2" rendition="simple:additions"/>
+            <p>
+               <hi>ENGLAND's</hi> Palladion; <hi>OR,</hi> BRITAIN's Naval-Glory: Expreſſed in a PANEGYRICK, Beginning with a <hi>Loyal Salutation</hi> OF THE Royal Navie.</p>
+            <p>With Three Additional Poems
+<list>
+                  <item>I. <hi>A Congratulation on the late</hi> VICTORY, <hi>&amp;c.</hi>
+                  </item>
+                  <item>II. <hi>The Burning</hi> Iſland, <hi>&amp;c.</hi>
+                  </item>
+                  <item>III. <hi>A Praemonition to the</hi> States <hi>of</hi> Holland.</item>
+               </list>
+            </p>
+            <p>By <hi>T. S.</hi>
+            </p>
+            <q>Magna tamen ſpes eſt in bonitate Dei. <bibl>
+                  <hi>Ovid.</hi>
+               </bibl>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed in the Year M.DC.LXVI.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:151335:3"/>
+            <pb facs="tcp:151335:3"/>
+            <head>To the READER.</head>
+            <lg>
+               <l>
+                  <seg rend="decorInit">A</seg>S for the Candid Reader, truly I</l>
+               <l>Stand freely to his Ingenuity.</l>
+               <l>What need Apologies? This may ſuffice,</l>
+               <l>We know, <hi>A word's ſufficient to the Wiſe.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>But ye, Cenſorious Sirs, who uſe to find</l>
+               <l>Only what doth not pleaſe your Squeamiſh mind;</l>
+               <l>If ye find Errors in each <hi>Infant</hi>-ſheet,</l>
+               <l>Let not your Envy add to thoſe you meet:</l>
+               <l>Or thus; If ye find thoſe that were before,</l>
+               <l>Let not your ſcruples (prethee) make them more.</l>
+               <l>But if they do, 'tis all alike to me,</l>
+               <l>I fix my Fortune not on Poetrie.</l>
+               <l>Then Critick, do thy worſt; For know, that I</l>
+               <l>Pretend to nothing here but Loyalty.</l>
+               <l>Criticks (I know by whom) are ſtyled thus,</l>
+               <l>No better than the <hi>Muſes, Cerberus:</hi>
+               </l>
+               <l>Nay, he deſcribes 'um yet more monſtrous,</l>
+               <l>And ſays, they 're bitt'rer than <hi>Archilocus.</hi>
+               </l>
+               <l>Let <hi>Zoilus</hi> with Envy ne'r ſo ſharp,</l>
+               <l>Squint then; Let poring <hi>Momus</hi> proudly carp,</l>
+               <l>And then (For (Faith) they cannot me diſpleaſe,)</l>
+               <l>They'll e'en (like <hi>Dutch-men) fret in their own Greaſe.</hi>
+               </l>
+            </lg>
+            <q>
+               <bibl>
+                  <hi>Hor. Sat. 3. lib 1.</hi>
+               </bibl>
+               <l>Qui, ne tuberibus propriis offendat Amicum</l>
+               <l>Poſtulat; ignoſcat verucas illius —</l>
+            </q>
+            <closer>
+               <signed>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:151335:4"/>
+            <pb n="1" facs="tcp:151335:4"/>
+            <head>
+               <hi>ENGLAND</hi>'s Palladion, <hi>&amp;c.</hi> BEGINNING With a Loyal Salutation of the ROYAL NAVY, UPON Their Sailing from the <hi>Buoy</hi> in the <hi>Nore,</hi> in the <hi>Rogation</hi> Week, 1666.</head>
+            <lg>
+               <l>
+                  <seg rend="decorInit">S</seg>INCE men do Courtſhip now a days invent,</l>
+               <l>Why may n't I ſpend this <hi>Loyal Complement?</hi>
+               </l>
+               <l>Since ſome in numbers do attend the Fleet,</l>
+               <l>I cannot but <hi>in numbers too</hi> 'um greet;</l>
+               <l>And while the Caſtles with broad-ſides contend,</l>
+               <l>I needs muſt this <hi>broad ſide</hi> of Paper ſend.</l>
+            </lg>
+            <lg>
+               <l>Hail, Royal Fleet! May all the good that can</l>
+               <l>By God be granted, or be askt by Man,</l>
+               <l>Light on ye, May ye ever proſp'rous be</l>
+               <l>In good ſucceſs and crown'd with Victorie;</l>
+               <l>May ye be bleſt (if fit) with ſuch exceſs</l>
+               <l>Of happineſſes heap'd on happineſs,</l>
+               <l>Till Providence muſt go no further, and</l>
+               <l>Fortune her ſelf at a <hi>non-ultra</hi> ſtand;</l>
+               <l>May moſt benign and moſt proſperous gales</l>
+               <l>Fan courteous winds upon your ſwelling Sails,</l>
+               <l>(Let our Rogation be zealous, and</l>
+               <l>For bleſſings on the Sea as well as Land;</l>
+               <l>And bleſſed Lord, by thy <hi>Aſcenſion</hi>
+               </l>
+               <l>Let Heavens bleſſings now deſecend upon</l>
+               <pb n="2" facs="tcp:151335:5"/>
+               <l>The Fleet; let all Habi<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>iments be ſent</l>
+               <l>That may be any way expedient;</l>
+               <l>That Heaven thus may all good comforts bring</l>
+               <l>To every Soul that fighteth for the King.)</l>
+               <l>And as ye were moſt gladly welcome in,</l>
+               <l>(When this brave Rendezvouz did firſt begin.)</l>
+               <l>May ye now well go out into the Main,</l>
+               <l>And then return triumphant back again;</l>
+               <l>And (in a word) have (I can ask no more)</l>
+               <l>Bleſſings till Heaven hath ſent all its ſtore.</l>
+               <l>May ye in pleaſures ſwim, while <hi>Hogens</hi> ſink,</l>
+               <l>And have above what I can ask, or think.</l>
+            </lg>
+            <lg>
+               <l>But where's my Admiral? his valour's ſuch,</l>
+               <l>That he will time enough come for the <hi>Dutch</hi>
+               </l>
+               <l>I'l warrant you, and ſoon enough to make</l>
+               <l>The <hi>Dane,</hi> the <hi>Dutch, the Devil and all</hi> to quake:</l>
+               <l>(Reader pray' for my words take my intent,</l>
+               <l>I ſaid the Devil, but the <hi>French</hi> I meant.)</l>
+            </lg>
+            <lg>
+               <l>When mighty <hi>James</hi> before the <hi>Holland</hi>-Coaſt</l>
+               <l>Stood, (though the <hi>Hogens</hi> did ſo proudly boaſt)</l>
+               <l>There he moſt valourouſly did expoſe</l>
+               <l>Himſelf and Navy to his num'rous foes,</l>
+               <l>And e're he got the <hi>Lubbies</hi> out to fight,</l>
+               <l>He did entice 'um to it and invite:</l>
+               <l>Thus may <hi>heroick George's</hi> ſwelling fame</l>
+               <l>Make 'um e'en tremble at his very Name.</l>
+               <l>And may your foes, Sir, in the <hi>Belgick-Fleet</hi>
+               </l>
+               <l>Like <hi>Lambert's Rebels</hi> fall before your feet;</l>
+               <l>May their Commanders, may each <hi>General,</hi>
+               </l>
+               <l>Before your face too (like proud <hi>Opdam</hi>) fall;</l>
+               <l>May you (my Lord) be far more fortunate</l>
+               <l>Than ever <hi>Scaevola</hi> or <hi>Caeſar's</hi> fate</l>
+               <l>Could make them be; May you have bleſſings more</l>
+               <l>Than thoſe I wiſht (if poſſible) before:</l>
+               <l>May you ſucceſsful as <hi>Veſpaſian</hi> be</l>
+               <l>In your <hi>Sea-enterprize</hi> and <hi>Victorie;</hi>
+               </l>
+               <l>And in your Conqueſts be as proſperous</l>
+               <l>As ever <hi>Scipio</hi> or <hi>Curius,</hi>
+               </l>
+               <l>That you in wealth and honour may encreaſe</l>
+               <l>As much as ever did <hi>Polycrates;</hi>
+               </l>
+               <pb n="3" facs="tcp:151335:5"/>
+               <l>So that your Excellency may n't be leſs</l>
+               <l>Than was <hi>Metellus</hi> in all happineſs.</l>
+               <l>I'm but a <hi>Country Courtier</hi> (my Lord)</l>
+               <l>Without a <hi>Dam-me,</hi> You may take my word;</l>
+               <l>I am <hi>Right-down (Sir,)</hi> In good faith believ me,</l>
+               <l>Your <hi>real-humble-Servant,</hi> and conceiv me,</l>
+               <l>My Prayers are as zealous for you as</l>
+               <l>Ever for <hi>Oliver Hugh Peters</hi> was,</l>
+               <l>And I hope more religious and juſt;</l>
+               <l>Their wicked Prayers were but as the duſt</l>
+               <l>(Proceeding from a ſacrilegious mind,</l>
+               <l>Juſt like their wicked ſelvs) before the wind:</l>
+               <l>And their deluding <hi>Prayers by the Spirit</hi>
+               </l>
+               <l>Had juſtice in the end for their demerit:</l>
+               <l>
+                  <hi>Noll's</hi> Soul had doubtleſs ne'r <hi>gone</hi> in a <hi>ſtorm,</hi>
+               </l>
+               <l>Had he but loved <hi>The Set (ſacred) form;</hi>
+               </l>
+               <l>No <hi>Common Prayers,</hi> but a <hi>common life</hi>
+               </l>
+               <l>(They ſay) he loved with <hi>Jack Lambert's</hi> wife;</l>
+               <l>But <hi>Jack</hi> (an <hi>under-Devil</hi>) thought no ſcorn</l>
+               <l>So long as <hi>Belzebub</hi> did graft the horn.</l>
+               <l>
+                  <hi>Hugh</hi> ne'r at <hi>Tyburn</hi> had <hi>been in the lurch,</hi>
+               </l>
+               <l>Had he obey'd his pious <hi>King and Church.</hi>
+               </l>
+               <l>(But hold, I think my <hi>Muſe</hi> is at a lois</l>
+               <l>'Twas not at <hi>Tyburn,</hi> 'twas at <hi>Charing-Croſs</hi>)</l>
+               <l>Where he (oh double-grief!) forſook his life,</l>
+               <l>And that which was as dear, the <hi>Butcher's</hi> wife.</l>
+               <l>
+                  <hi>Thimbles</hi> and <hi>Bodkins</hi> now were all in vain,</l>
+               <l>Their <hi>Charms</hi> could never <hi>fetch him back again:</hi>
+               </l>
+               <l>And though they <hi>Orphean</hi> muſick once did make,</l>
+               <l>They cannot fetch him from the <hi>Stygian</hi>-Lake.</l>
+               <l>May all <hi>Phanaticks</hi> that have ſtill his heart,</l>
+               <l>Succeed him with a Halter in a Cart.</l>
+            </lg>
+            <lg>
+               <l>And thus much for thoſe <hi>grand Impoſtors,</hi> I</l>
+               <l>(Leaving them to deteſted memorie)</l>
+               <l>Again will to my <hi>Loyal Subject</hi> fly.</l>
+            </lg>
+         </div>
+         <div type="panegyric">
+            <pb n="4" facs="tcp:151335:6"/>
+            <head>
+               <hi>A</hi> PANEGYRICK, <hi>&amp;c.</hi> Upon a Viſit to the <hi>Royal Navy,</hi> at their Rendezvouz in the <hi>DOWNS, May</hi> the 29<hi rend="sup">th,</hi> 1666.</head>
+            <lg>
+               <l>
+                  <note place="margin">Viewing the Navy on the <hi>Beach,</hi> &amp;c.</note>BLeſs me! What is't I ſee? What things are theſe?</l>
+               <l>What! Are the fam'd <hi>Aegean Cyclades</hi>
+               </l>
+               <l>Now ſailing on the Seas? Or is a Wood</l>
+               <l>Now floating like <hi>Dodona</hi> on the Flood?</l>
+               <l>What mean ye by this moſt illuſt<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ious ſight?</l>
+               <l>Will ye the <hi>Dutchmen</hi> from their ſenſes fright?</l>
+               <l>Here is a Shew magnificent indeed</l>
+               <l>Above a <hi>Dutchman</hi> or <hi>Phanatique's</hi> Creed.</l>
+               <l>Theſe are right ſtately <hi>May-poles,</hi> and which may</l>
+               <l>Moſt gloriouſly ſuit this<note n="*" place="margin">The day of his Majeſties Reſtauration, <hi>&amp;c.</hi>
+                  </note> 
+                  <hi>glorious day;</hi>
+               </l>
+               <l>Their altitude is like <hi>Olympus,</hi> and</l>
+               <l>Exceedeth far the <hi>May-Pole</hi> in the <hi>Strand.</hi>
+               </l>
+               <l>And may they too as much of <hi>Fortune</hi> bring,</l>
+               <l>As <hi>this-day ſix-year</hi> brought, unto the <hi>King;</hi>
+               </l>
+               <l>Their whifling, ſtreaming Pendents are beyon'</l>
+               <l>The <hi>Ladies Pendents,</hi> glitt'ring in the Sun.</l>
+               <l>(Women are tearmed Ships, rig'd ne'r ſo well</l>
+               <l>In Silks, they cann't thoſe ſilken Flaggs excel,</l>
+               <l>For noble luſtre) What doth here belong</l>
+               <l>Too, is (as well as <hi>ornamental</hi>) ſtrong.</l>
+               <l>And <hi>Rome's Triumphal Arches</hi> never cou'd</l>
+               <l>For Shew excel theſe <hi>Obelisks of Wood.</hi>
+               </l>
+               <l>Theſe promiſe Vict'ry in their very Look,</l>
+               <l>When the <hi>French</hi> challeng'd doubtleſs they miſtook;</l>
+               <l>And that our <hi>Engliſh</hi> Ships were (did ſuppoſe)</l>
+               <l>Thoſe <hi>Mack'rel Boats</hi> which from the <hi>Belgick</hi>-foes</l>
+               <pb n="5" facs="tcp:151335:6"/>
+               <l>Indeed were able (ſpight of all their braggs</l>
+               <l>Proudly belcht out) to take away their Flaggs.</l>
+               <l>Had they but thought to ſee this <hi>Noble ſight,</hi>
+               </l>
+               <l>They would have had <hi>more mind to eat than fight.</hi>
+               </l>
+               <l>But who is that that doth the Shew decreaſe,<note place="margin">Prince <hi>Rupert</hi> being then ſailing out with a Squa<g ref="char:EOLhyphen"/>dron (as it was ſaid) againſt the <hi>French.</hi>
+                  </note>
+               </l>
+               <l>By ſailing yonder off upon the Seas?</l>
+               <l>Why? 'Tis <hi>Prince Rupert,</hi> I ne'r knew I vow</l>
+               <l>His Highneſs was to go again, till now;</l>
+               <l>Farewel moſt valiant Prince, and may you thus,</l>
+               <l>As you are valiant, be victorious:</l>
+               <l>And may your ſhare be ample, and compleat</l>
+               <l>Of all the bleſſings that I can repeat.</l>
+               <l>Ye now appear like Clouds,<note place="margin">Ships at a di<g ref="char:EOLhyphen"/>ſtance ſeem like clouds.</note> when ye are nigher</l>
+               <l>Unto the <hi>French,</hi> yee will appear like Fire.</l>
+            </lg>
+            <lg>
+               <l>But why are here ſuch peopled throngs as theſe,</l>
+               <l>With gleeſom Aſpects looking on the Seas?</l>
+               <l>Is <hi>Jaſon</hi> bringing here the <hi>golden-Fleece;</hi>
+               </l>
+               <l>'Cauſe <hi>Deal</hi> me-thinks doth look ſo like a <hi>Greece?</hi>
+               </l>
+               <l>No, 'tis not ſo, They come to ſee and greet,</l>
+               <l>Though not a <hi>golden Fleece,</hi> a <hi>golden Fleet;</hi>
+               </l>
+               <l>No, here's no <hi>Witchraft,</hi> nor no <hi>Med'an</hi> Arts.</l>
+               <l>But yet for<note n="*" place="margin">Thoſe famous Worthies that attended <hi>Jaſon</hi> (as our Re<g ref="char:EOLhyphen"/>formado's do) were ſo termed.</note> 
+                  <hi>Argonauts</hi> here's <hi>noble hearts.</hi>
+               </l>
+               <l>Brave <hi>Kent's</hi> a <hi>Kingdom</hi> too (me-thinks) again,</l>
+               <l>Thus to have in her <hi>Narrow-Seas</hi> the <hi>Main</hi>
+               </l>
+               <l>And <hi>Ocean Glory</hi> of the <hi>Britiſh-Iſle,</hi>
+               </l>
+               <l>(On which the Heavens themſelvs do ſweetly ſmile.)</l>
+               <l>A Kingdom? Yes, And of more high deſert</l>
+               <l>Farr, than when ſhe was rul'd by <hi>Ethelbert.</hi>
+               </l>
+               <l>For <hi>be it known,</hi> That (to her great content)</l>
+               <l>
+                  <hi>King Charls the Second</hi> now is <hi>King of Kent.</hi>
+               </l>
+               <l>
+                  <hi>Xerxes</hi> himſelf could doubtleſs never boaſt</l>
+               <l>Of greater <hi>Power</hi> than the <hi>Kentiſh-Coaſt</hi>
+               </l>
+               <l>Doth now afford, here is a <hi>Bridge</hi> will <hi>reach</hi>
+               </l>
+               <l>Croſs from the <hi>Britiſh</hi> to the <hi>Belgick-beach.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>But now to raiſe my Admiration higher,</l>
+               <l>I am ambitious of approaching nigher;</l>
+               <l>Come, let us go then, give us here a Boat,</l>
+               <l>That we may to the <hi>Royal Navy</hi> float;</l>
+               <l>(Come <hi>Kentiſh-boys,</hi> let thoſe that wou'd not go</l>
+               <l>This journey, now repent <hi>from top to toe.</hi>)</l>
+               <pb n="6" facs="tcp:151335:7"/>
+               <l>Now my heart leaps like thoſe upon the Seas,</l>
+               <l>Coming ſo near ſuch ſtately things as theſe;</l>
+               <l>What raviſhment here's for a <hi>Loyal ſoul?</hi>
+               </l>
+               <l>This, this alone, may Rebels hopes controul.</l>
+               <l>Come, row away, I long to be aboard,</l>
+               <l>To ſee in <hi>Royal Charles</hi> my <hi>Loyal Lord.</hi>
+                  <note place="margin">The Author Boarding the <hi>Royal Charles.</hi>
+                  </note>
+               </l>
+               <l>Is this a Ship? Why then, this Ship alone</l>
+               <l>May parallel a pretty handſom Town,</l>
+               <l>And you may men as populouſly meet</l>
+               <l>Here, as in <hi>Cheap-ſide,</hi> or in <hi>Lombard-ſtreet.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <note place="margin">Veiwing the great Cabben.</note>But what is here? A <hi>Pallace made of wood?</hi>
+               </l>
+               <l>Is <hi>Hampton-Court</hi> now floating on the flood?</l>
+               <l>But ah! I now my <hi>General</hi> eſpie,</l>
+               <l>If this be not his Lordſhip, may I die.</l>
+               <l>And (now I humbly kiſs your hand) I wiſh</l>
+               <l>You be made happy <hi>both by fleſh and fiſh.</hi>
+               </l>
+               <l>And now your Honour happily is come,</l>
+               <l>May all the bleſſings 'till the day of Doom</l>
+               <l>From the Creation that were to be ſent,</l>
+               <l>Be all at once upon your Lordſhip ſpent.</l>
+            </lg>
+            <lg>
+               <l>Heavens bleſs <hi>Royal Charls,</hi> and conqueſt bring</l>
+               <l>To <hi>Royal Charls's Maſter, Charls</hi> our King;</l>
+               <l>May good ſucceſs and fortune be poſſeſt</l>
+               <l>By her not only, but by <hi>all the reſt.</hi>
+               </l>
+            </lg>
+            <div type="part">
+               <head>Upon their Sailing out on the Thurſday following againſt the <hi>Dutch.</hi>
+               </head>
+               <l>HAil once more, Royal Fleet! now may ye be</l>
+               <l>Moſt proſp'rous in a <hi>final victorie;</hi>
+               </l>
+               <l>And may ye now ſo happily <hi>go out</hi>
+               </l>
+               <l>To give your Enemies a <hi>total rout.</hi>
+               </l>
+               <l>Once, nay for ever, Hail, I know ye do</l>
+               <l>Many times <hi>Thunder,</hi> yes, and <hi>lighten</hi> too;</l>
+               <l>Then may your <hi>thund'ring</hi> Canons ſo affright,</l>
+               <l>(Together with their <hi>fire-ſpitting light</hi>)</l>
+               <l>So <hi>ſcare</hi> and <hi>ſcorch</hi> the <hi>Dutchmen,</hi> that they may</l>
+               <l>Be either <hi>took,</hi> or <hi>ſunk,</hi> or <hi>run-away;</hi>
+               </l>
+               <pb n="7" facs="tcp:151335:7"/>
+               <l>And may ye too moſt powerfully <hi>Reign,</hi>
+               </l>
+               <l>Till ye are of the <hi>
+                     <g ref="char:V">Ʋ</g>niverſal Main</hi>
+               </l>
+               <l>And <hi>Ocean</hi>-Sea <hi>chief Mornarch:</hi> May ye thus</l>
+               <l>
+                  <hi>Hail, Thunder, Lighten,</hi> and <hi>Reign</hi> proſperous.</l>
+            </div>
+            <div type="part">
+               <head>Upon a View of them in <hi>July</hi> laſt, before their laſt going out, <hi>&amp;c.</hi>
+               </head>
+               <lg>
+                  <l>BLeſt <hi>Navy,</hi> Art thou here again? What is</l>
+                  <l>A <hi>PYTHAGOREAN Metempſychoſis</hi>
+                  </l>
+                  <l>Here <hi>transmigrated</hi> now in Ships, as then</l>
+                  <l>That <hi>fond Philoſopher</hi> miſtook in men?</l>
+                  <l>Becauſe here's juſt ſuch glory as before</l>
+                  <l>Lay glitt'ring they from off the <hi>Kentiſh ſhore?</hi>
+                  </l>
+                  <l>No, here's no <hi>tranſmigration,</hi> but the ſame</l>
+                  <l>They are in Subſtance ſtill as well as Name,</l>
+                  <l>No <hi>Metempſychoſis</hi> was here convey'd</l>
+                  <l>But what <hi>originally</hi> they enjoy'd:</l>
+                  <l>For they, <hi>Heroick Warriors,</hi> did not die,</l>
+                  <l>Though they did bravely <hi>ſuffer batterie,</hi>
+                  </l>
+                  <l>Like <hi>noble Combatants</hi> they only ſtrive</l>
+                  <l>After their <hi>bloody Battail</hi> to retrive</l>
+                  <l>Their former ſprightly looks, and do appear</l>
+                  <l>As void of Sadneſs now as then of Fear.</l>
+                  <l>And as <hi>ſtout Champions</hi> are impatient</l>
+                  <l>To trace the <hi>Martial Field,</hi> and quit the Tent;</l>
+                  <l>So thus have theſe ſuch valourous deſires,</l>
+                  <l>Their courage, by felt dangers, more aſpires.</l>
+                  <l>They may the more be animated, who</l>
+                  <l>Do know the moſt now that the <hi>Dutch</hi> can do:</l>
+                  <l>Who though they 'ad numerous advantages,</l>
+                  <l>Had little cauſe to brag; But ſuch as theſe,</l>
+                  <l>If they do but eſcape a total Rout,</l>
+                  <l>'Tis thought a <hi>wonder</hi> to 'am without doubt.</l>
+                  <l>Then let 'um ſtill themſelves with fancies feed;</l>
+                  <l>While their ſad wound till <hi>inwardly doth bleed,</hi>
+                  </l>
+                  <l>Being (poor ſenſleſs wretches) ignorant</l>
+                  <l>Of their Diſeaſe; Then let 'um proudly taunt,</l>
+                  <pb n="8" facs="tcp:151335:8"/>
+                  <l>And with vain-glorious ſolemnitie,</l>
+                  <l>Let Them the <hi>Triumph,</hi> We the <hi>Victorie</hi>
+                  </l>
+                  <l>Keep; Doutleſs thoſe the greateſt Conqueſt gain,</l>
+                  <l>That do the leſſer damages ſuſtain.</l>
+                  <l>Then let us <hi>Notes compare,</hi> We 'ad Loſſes, true;</l>
+                  <l>If I miſtake not <hi>(Hogens)</hi> ſo had you.</l>
+                  <l>('Tis true an <hi>Engliſh Ship's</hi> to them a <hi>Jewel,</hi>
+                  </l>
+                  <l>Though theirs with us do even ſerve for <hi>Fuel</hi>)</l>
+                  <l>Had We not for Their <hi>thirty</hi> gave 'um <hi>ten,</hi>
+                  </l>
+                  <l>How do ye think they e'r will fight agen:</l>
+                  <l>(Yet when they gag'd their <hi>matchleſs Victorie</hi>
+                  </l>
+                  <l>They <hi>found</hi> they had of ours only <hi>three</hi>)</l>
+                  <l>Thus <hi>crafty Gameſters</hi> often do begin</l>
+                  <l>To <hi>looſe,</hi> becauſe at laſt the more to win.</l>
+                  <l>And by ſo doing (this is their device)</l>
+                  <l>They <hi>younger Gameſters</hi> often do entice.</l>
+                  <l>I muſt confeſs <hi>(great Hogens)</hi> it is true,</l>
+                  <l>It was a <hi>Mogen Victorie</hi> for you,</l>
+                  <l>'Scaping ſo well your more couragious foes,</l>
+                  <l>And being ſtrangers to ſuch things as thoſe,</l>
+                  <l>Made ye, becauſe they did not beat ye more,</l>
+                  <l>Fancy that ye had beaten them before.</l>
+                  <l>If <hi>Pigmies</hi> conquer only <hi>ſhaddows</hi> they</l>
+                  <l>Thus think they have enough obtein'd the day;</l>
+                  <l>Or like the <hi>Pſillian Warriers,</hi> of a mind</l>
+                  <l>To fight againſt their Enemy, the Wind,</l>
+                  <l>And going out againſt it, it did blow</l>
+                  <l>And deſtroy divers of the Army, though</l>
+                  <l>The reſt of them (when <hi>Boreas</hi> did ceaſe)</l>
+                  <l>Return'd with <hi>Triumph,</hi> with <hi>victorious Peace:</hi>
+                  </l>
+                  <l>Such fooliſh Creatures <hi>(Hogens)</hi> will ye be,</l>
+                  <l>Thus to <hi>mock</hi> Heaven with a <hi>Victorie?</hi>
+                  </l>
+                  <l>If ye were ſo <hi>Victorious,</hi> then I pray</l>
+                  <l>Stand to it once more; Do not run away.</l>
+                  <l>Let fair play be had, then we ſhall ſee</l>
+                  <l>Which of the two will have the Victorie.</l>
+                  <l>Let's try it (once more) out, I prethee, and</l>
+                  <l>Have <hi>t' other Touch</hi> at Sea, before ye land:</l>
+                  <l>A <hi>Fleet of Wheel-barrows</hi> they ſay ye have,</l>
+                  <l>The Sea will ſerve, they need not make your Grave;</l>
+                  <pb n="9" facs="tcp:151335:8"/>
+                  <l>'Tis very needleſs to attempt a Trench,</l>
+                  <l>Before ye have done ſwiming with the Tench.</l>
+               </lg>
+               <lg>
+                  <l>Then <hi>Royal Fleet,</hi> your foes go once more face,</l>
+                  <l>I know y' are full of <hi>Majeſtie</hi> and <hi>Grace,</hi>
+                  </l>
+                  <l>And are enough undaunted, motives are</l>
+                  <l>All needleſs too, to ſtir you up to War.</l>
+                  <l>If ye did beat 'um not enough before,</l>
+                  <l>Ye yet may beat 'um notwithſtanding more.</l>
+                  <l>Great Armies do not every time prevail,</l>
+                  <l>And greateſt <hi>Warriers</hi> now and then may fail.</l>
+                  <l>Neither did <hi>Alexander</hi> (without doubt)</l>
+                  <l>Return a <hi>Victor</hi> every time he fought.</l>
+               </lg>
+               <lg>
+                  <l>Proceed then, <hi>Loyal Souls,</hi> and may ye be</l>
+                  <l>Bleſt with a <hi>final-total-Victorie.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>God ſave our <hi>Sacred King,</hi> and Heavens Crown.</l>
+                  <l>His Fleet with <hi>Conqueſt, Honour,</hi> and <hi>Renown.</hi>
+                  </l>
+               </lg>
+               <closer>
+                  <signed>
+                     <hi>So moſt devoutly prays, one of</hi> his Majeſties <hi>moſt Loyal Subjects</hi> Tho. Sympſon.</signed>
+               </closer>
+            </div>
+         </div>
+         <div type="poem">
+            <pb n="10" facs="tcp:151335:9"/>
+            <head>A Congratulary Poem on the Late Victory, obtein'd <hi>July</hi> the <hi>25<hi rend="sup">th,</hi> 1666.</hi>
+            </head>
+            <lg>
+               <l>WHo can be ſilent now? 'Twere e'en a Sin</l>
+               <l>To ſee ſo <hi>great a work</hi> ſo <hi>well begin,</hi>
+               </l>
+               <l>And not expreſs a joy; a joy at leaſt,</l>
+               <l>That doth ſo pleaſantly my Senſes feaſt</l>
+               <l>With Loyal Raptures, Raptures that alone</l>
+               <l>Might force Congratulation from a Stone.</l>
+               <l>Except thoſe ſtupid <hi>Stones</hi> and <hi>Stocks</hi> that be</l>
+               <l>Poſſeſt with a <hi>Phanatick Lethargie.</hi>
+               </l>
+               <l>I cannot (though <hi>no Poet</hi>) chuſe but write</l>
+               <l>When Heaven doth ſo <hi>ſignally</hi> invite.</l>
+               <l>I'm but a Stranger to <hi>Parnaſſus</hi>-Hill,</l>
+               <l>'Tis Loyalty (not Wit) incites my Quill.</l>
+               <l>This joyous News my ears delighteth too,</l>
+               <l>More than beſt <hi>Orphean</hi> harmony can do,</l>
+               <l>In Stones and Trees too; This Intelligence</l>
+               <l>Might likewiſe now (me-thinks) tranſport a ſenſe.</l>
+            </lg>
+            <lg>
+               <l>Then let immortal Praiſe to Heaven be</l>
+               <l>Return'd for this ſucceſsful Victorie.</l>
+               <l>And happy Bleſſings be continued on</l>
+               <l>The <hi>work</hi> that is ſo happily begun.</l>
+               <l>Let no Ingratitude of ours be</l>
+               <l>A ſtop to further bleſt Proſperitie.</l>
+               <l>
+                  <hi>Heathens</hi> in <hi>Triumphs</hi> do examples ſet,</l>
+               <l>Who never did ungratefully forget</l>
+               <l>To Sacrifice, and their Thanks-giving pay</l>
+               <l>Unto their Gods. Why then, without delay,</l>
+               <l>(As they in theirs) let us zealous be</l>
+               <l>In our Chriſtian Solemnitie.</l>
+               <l>Nor let us be too <hi>forward,</hi> 'till We ſee,</l>
+               <l>That Heaven ſends a <hi>total victorie;</hi>
+               </l>
+               <l>Nor by too great a confidence omit</l>
+               <l>Thoſe Duties that are in Devotion fit;</l>
+               <pb n="11" facs="tcp:151335:9"/>
+               <l>Let's mix our Prayers with Thanks-givings, and</l>
+               <l>We then ſhall <hi>fight</hi> againſt the <hi>Dutch, on Land:</hi>
+               </l>
+               <l>For Prayers are as prevalent as Arms</l>
+               <l>Againſt an Enemy; thoſe pious Charms,</l>
+               <l>As ſoon will work their general defeat,</l>
+               <l>Our Service to the King's in that as great</l>
+               <l>As any thing, all Ages likewiſe can</l>
+               <l>Serve him in that too, whether <hi>Child,</hi> or Man:</l>
+               <l>Each ſex may joyn too, (by this <hi>holy ſlight</hi>)</l>
+               <l>Ladies may in their cloſets for him <hi>fight;</hi>
+               </l>
+               <l>Let the blaſphemous <hi>Dutch</hi> cry on,<note n="*" place="margin">An expreſſi<g ref="char:EOLhyphen"/>on of late very frequently us'd amongſt 'um in deriſi<g ref="char:EOLhyphen"/>on of our ſin<g ref="char:EOLhyphen"/>gle ſtrength.</note> 
+                  <hi>We muſt</hi>
+               </l>
+               <l>
+                  <hi>To none</hi> (then) <hi>but to God a'mighty truſt.</hi>
+               </l>
+               <l>We need no other, his Omnipotence</l>
+               <l>Is a ſecure, invincible defence.</l>
+               <l>Then let 'um proudly boaſt, while <hi>Heaven fights</hi>
+               </l>
+               <l>For <hi>England</hi> 'gainſt thoſe <hi>Sea-Amalekites.</hi>
+               </l>
+               <l>Let 'um in <hi>Words</hi> exceed, while Heaven knows,</l>
+               <l>We by his bleſſings can prevail <hi>in Blows.</hi>
+               </l>
+               <l>
+                  <hi>Rodomontadoes</hi> will not do the feat,</l>
+               <l>Performances are leaſt when words are great.</l>
+               <l>Though (like the<note n="*" place="margin">Of whom <hi>Plutarch</hi> ſpeaks, that when he had a Fall, he would ſpring up a<g ref="char:EOLhyphen"/>gain, and with impudence af<g ref="char:EOLhyphen"/>firm it was he that was the Victor.</note> 
+                  <hi>Graecian</hi> Wreſtler) they will</l>
+               <l>With impudence ſay they are <hi>Victors</hi> ſtill.</l>
+               <l>No matter; We at laſt ſhall doubtleſs find</l>
+               <l>Their words (nay, actions too) will be like wind.</l>
+               <l>Then let us Heaven's help implore, and then</l>
+               <l>We need not fear, not fear the <hi>worſt</hi> of men;</l>
+               <l>That is the aid, the aid alone will do it,</l>
+               <l>The <hi>French</hi> and all the <hi>Danes</hi> are nothing to it.</l>
+               <l>Let us be careful then to gain the thing</l>
+               <l>That doth <hi>our ſelvs, our Country,</hi> and <hi>our King,</hi>
+               </l>
+               <l>So much concern, when as (alas!) the Task</l>
+               <l>Is only but to have, if we will ask.</l>
+               <l>Me-thinks a <hi>Triumph's</hi> nobleſt, when we ſee</l>
+               <l>It is attended with <hi>Humilitie;</hi>
+               </l>
+               <l>Nor let exceſs now Heaven's love annoy,</l>
+               <l>Let moderation circumſcribe our joy,</l>
+               <l>That ſo thoſe <hi>famous Souls</hi> now on the Main</l>
+               <l>May <hi>perfect Conquerors</hi> return again.</l>
+            </lg>
+         </div>
+         <div type="poem">
+            <pb n="12" facs="tcp:151335:10"/>
+            <head>
+               <hi>The</hi> BURNING-ISLAND, OR The <hi>Dutch</hi>-Man's <hi>Ignis-fatuus.</hi>
+            </head>
+            <argument>
+               <p>Being a Poem on the <hi>Fiery-Conqueſt,</hi> or unpa<g ref="char:EOLhyphen"/>rallel'd Exploit, executed by Sir <hi>Robert Holms</hi> againſt the <hi>Dutch,</hi> wherein about 160. Ships (richly laden) with a conſiderable Town in the Iſle of <hi>Schelling,</hi> were burnt and totally deſtroyed. Writ<g ref="char:EOLhyphen"/>ten <hi>Aug.</hi> the 16<hi rend="sup">th,</hi> 1666.</p>
+            </argument>
+            <lg>
+               <l>
+                  <note place="margin">Upon the Au<g ref="char:EOLhyphen"/>thors firſt hear<g ref="char:EOLhyphen"/>ing of the News, <hi>&amp;c.</hi>
+                  </note>HAve ye not heard the <hi>great Intelligence,</hi>
+               </l>
+               <l>Enough to raviſh (nay, amaze) one's ſenſe?</l>
+               <l>But ſtay, Is this ſo great a thing I hear,</l>
+               <l>Real? Or elſe doth but my flattering ear</l>
+               <l>Tranſport my Senſes only with a Viſion,</l>
+               <l>Or feigned Dream, that feeds me with deriſion?</l>
+               <l>No, no, 'tis ſacred Truth, the Heavens muſt,</l>
+               <l>And will do Juſtice, let us ne'r diſtruſt;</l>
+               <l>
+                  <hi>George</hi> is ſo holy, and his cauſe ſo fair,</l>
+               <l>It were a ſin of weakneſs to deſpair.</l>
+               <l>Experience tell us, that He needs muſt be</l>
+               <l>Succeſsful in a <hi>pious Victorie.</hi>
+               </l>
+               <l>He is a <hi>Joſhua</hi> that never fights</l>
+               <l>Without ſucceſs againſt<note n="*" place="margin">Thoſe whom <hi>Joſhua</hi> (ap<g ref="char:EOLhyphen"/>pointed Gene<g ref="char:EOLhyphen"/>ral by <hi>Moſes</hi>) fought a<g ref="char:EOLhyphen"/>gainſt, of whoſe name any of God's, or good mens Enemies may be called, <hi>&amp;c.</hi>
+                  </note> 
+                  <hi>Amalekites,</hi>
+               </l>
+               <l>Who by our <hi>Royal Moſes</hi> once before</l>
+               <l>Appointed <hi>General,</hi> did then reſtore</l>
+               <l>
+                  <hi>Iſrael</hi> to Peace, and then did <hi>civilize</hi>
+               </l>
+               <l>All God's (as well as good mens) Enemies;</l>
+               <l>(Though thoſe<note n="*" place="margin">Phanaticks.</note> 
+                  <hi>Amalekites</hi> rebel again</l>
+               <l>In heart (I fear), their fancies are ſo vain.)</l>
+               <l>Is our Cauſe juſt? then Heaven without doubt</l>
+               <l>Can give (though <hi>Hogen-Mogen</hi>) them a rout.</l>
+               <pb n="13" facs="tcp:151335:10"/>
+               <l>Our <hi>Sacred Prieſts</hi> too have <hi>perfum'd the Air,</hi>
+               </l>
+               <l>With the <hi>ſweet Incenſe</hi> of the <hi>Churches Prayer.</hi>
+               </l>
+               <l>If good mens Pray'rs be prevalent and pure,</l>
+               <l>The <hi>Church</hi> is pious and devout I'm ſure;</l>
+               <l>If her <hi>Sons,</hi> ſome, degenerate become,</l>
+               <l>Prayers are us'd by all, and not by ſome;</l>
+               <l>(For her unworthy ones, ſhe counteth all</l>
+               <l>Thoſe <hi>Anti-Chriſtian, Anti-Praelatical;</hi>)</l>
+               <l>Then Doubt begone; Though we unworthy be,</l>
+               <l>Heaven may pour out liberalitie.</l>
+               <l>The <hi>News</hi> is now confirm'd enough, the thing</l>
+               <l>Is for a certain Truth brought to the King;</l>
+               <l>And who his Royal ears dare ſo ſurprize,</l>
+               <l>Were it but a <hi>fictitious ſurmiſe?</hi>
+               </l>
+               <l>Thus if we thankful be for bleſſings paſt,</l>
+               <l>We ſhall have fuller bleſſings yet at laſt.</l>
+               <l>For the<note n="*" place="margin">The news was brought to Court, on that Thanks-gi<g ref="char:EOLhyphen"/>ving-day at might that was ap<g ref="char:EOLhyphen"/>pointed to be celebrated within the Ci<g ref="char:EOLhyphen"/>ty of <hi>London,</hi> and the ad<g ref="char:EOLhyphen"/>jacent places.</note> 
+                  <hi>Thanks-giving</hi> was not at an end,</l>
+               <l>Ere Heaven did theſe welcom tidings ſend;</l>
+               <l>And ſable night had cancel'd not the other,</l>
+               <l>Ere Heaven ſent occaſion for another.</l>
+               <l>The tidings of the Evening did Crown</l>
+               <l>The <hi>Solemn day</hi> with <hi>Heavenly</hi> Renown.</l>
+               <l>Not <hi>popular vain gloriouſneſs,</hi> and ſuch</l>
+               <l>As is the practice of the <hi>vaunting Dutch,</hi>
+               </l>
+               <l>But with a mercy, mercy that may well</l>
+               <l>"<hi>Match the dimenſions of a Miracle;</hi>
+               </l>
+               <l>And this indeed, this New, was <hi>ſolemn-ſport</hi>
+               </l>
+               <l>To the <hi>Victorious and Royal-Court.</hi>
+               </l>
+               <l>Nor was the<note n="*" place="margin">The day fol<g ref="char:EOLhyphen"/>lowing was the News celebra<g ref="char:EOLhyphen"/>ted in the City of <hi>London.</hi>
+                  </note> City ſo ungrateful neither,</l>
+               <l>But that they did rejoyce two days together;</l>
+               <l>(And the next day I cou'd not chooſe but write,</l>
+               <l>And be the <hi>Dutchmen</hi>
+                  <note n="†" place="margin">An Irony, &amp;c.</note> 
+                  <hi>weeping Heraclite</hi>)</l>
+               <l>But when I wept, (to tell the real truth)</l>
+               <l>I think 'twas <hi>with the wrong ſide of the mouth;</hi>)</l>
+               <l>(And I hope too, our cauſes better be</l>
+               <l>Than the <hi>Dutch</hi> had for their obſerving<note n="*" place="margin">The <hi>Dutch</hi> for their pre<g ref="char:EOLhyphen"/>tended Victory in <hi>June</hi> kept three Thanks-giving-days together.</note> 
+                  <hi>three.</hi>
+               </l>
+               <l>This <hi>flaming</hi> News ſuch gladneſs did convoy,</l>
+               <l>It made the City too <hi>flame</hi> all with joy.</l>
+               <l>
+                  <hi>Triumphant Fires</hi> were as many here,</l>
+               <l>As thoſe <hi>Dutch fatal ones</hi> did blaze out there.</l>
+               <pb n="14" facs="tcp:151335:11"/>
+               <l>They lately ſo <hi>hot-headed</hi> were I vow,</l>
+               <l>I think they 've had <hi>Bone-fires</hi> now enough.</l>
+               <l>Their fate, 'tis true, deſervs an Elegie,</l>
+               <l>But yet (for my part) <hi>Faith, I cannot crie.</hi>
+               </l>
+               <l>Or to that paſſion ſhould I bow, I fear</l>
+               <l>'T wou'd only be to ſhed a <hi>joyful tear.</hi>
+               </l>
+               <l>I muſt confeſs I'm ſorry that ye are</l>
+               <l>Poſſeſſed yet of any <hi>Men of War.</hi>
+               </l>
+               <l>I ſhould have gladder been too, if the flame</l>
+               <l>Had from your <hi>Merchant-Men</hi> flew to the ſame:</l>
+               <l>I muſt confeſs (though I were very willing</l>
+               <l>To hear ſuch bleſſed tidings too from <hi>Schelling</hi>)</l>
+               <l>I had been gladder (as ſure as I am,)</l>
+               <l>Had it ſo happened to <hi>Amſterdam,</hi>
+               </l>
+               <l>And ſhould have been <hi>as 'merry as a Fiddle,</hi>
+               </l>
+               <l>
+                  <hi>Hogens,</hi> had all of ye been in the middle.</l>
+               <l>But ſtay, We always ought to be content</l>
+               <l>With whatſoever is by Heaven ſent.</l>
+               <l>It is enough: Let us with patience ſee</l>
+               <l>How the juſt Heavens our <hi>beſt Carvers</hi> be.</l>
+               <l>But boundleſs joys do very often cauſe</l>
+               <l>Expreſſions to exceed ſtrict Reaſon's Laws.</l>
+               <l>Our <hi>Chriſtian Charity</hi> ought to be ſuch,</l>
+               <l>To ſhew it ſelf to <hi>Pagans;</hi> nay, the <hi>Dutch:</hi>
+               </l>
+               <l>But when unjuſtly they will greedy be,</l>
+               <l>To exerciſe all kinds of Injurie;</l>
+               <l>Then they may thank themſelves if Heaven do</l>
+               <l>Return 'um Puniſhment, and Juſtice too.</l>
+               <l>Spoils to an Enemy are juſt enough,</l>
+               <l>Eſpecially to thoſe that are ſo rough;</l>
+               <l>Thoſe were the men that lately proudly con'd</l>
+               <l>Project, how they 'd diſpoſe of <hi>Royal blood;</hi>
+               </l>
+               <l>And e're they cou'd our Naval force withſtand,</l>
+               <l>Nothing wou'd ſerve their turn, but they muſt land.</l>
+               <l>But now I hope their courage will expire,</l>
+               <l>Now it is cool'd, nay <hi>cool'd by</hi> (even) <hi>Fire,</hi>
+               </l>
+               <l>(The <hi>means</hi> was <hi>wonderful,</hi> that fire ſhou'd</l>
+               <l>Thus cool the heat of <hi>Hogen-Mogen</hi>-bloud.</l>
+               <l>But, <hi>one extream doth drive another out;</hi>
+               </l>
+               <l>This was the only Med'cine without doubt:)</l>
+               <pb n="15" facs="tcp:151335:11"/>
+               <l>Now <hi>Holland</hi>'s <hi>Wealth</hi> was turn'd into a flame,</l>
+               <l>
+                  <hi>Schelling</hi> a <hi>Burning-Iſland</hi> now became;</l>
+               <l>
+                  <hi>A Burning-Iſland?</hi> Yes indeed, and truly</l>
+               <l>
+                  <hi>Hogens</hi> for you it <hi>burnt</hi> (too, very) <hi>blewly.</hi>
+               </l>
+               <l>Nor did ye <hi>(Hogens)</hi> only looſe your <hi>Treaſure;</hi>
+               </l>
+               <l>But too, (it ſeems) your <hi>Mogen Boat of Pleaſure.</hi>
+               </l>
+               <l>No matter, now ye e'en may go and <hi>keep</hi>
+               </l>
+               <l>(As well as<note place="margin">As they did in <hi>Thanet.</hi>
+                  </note> ſhoot at) ſilly, rotten, <hi>Sheep.</hi>
+               </l>
+               <l>This <hi>Ignis-fatuus</hi> will without delay,</l>
+               <l>Put ye too (doubtleſs) much <hi>out of the way.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>But <hi>Noble Holms,</hi> What ſhall I ſay of thee?</l>
+               <l>Who with ſuch Loyal magnanimitie,</l>
+               <l>(By our moſt Noble <hi>General's</hi> Commiſſion)</l>
+               <l>Was <hi>Conduct</hi> in this <hi>famous Expedition:</hi>
+               </l>
+               <l>No <hi>Greek</hi> or <hi>Roman</hi> e're did parallel</l>
+               <l>This <hi>rare Exploit:</hi> This truly doth excel</l>
+               <l>
+                  <hi>Lepanto</hi>'s fame. Indeed, One now may ſay 't,</l>
+               <l>That <hi>Sixty Six</hi> excelleth — <hi>Eighty Eight.</hi>
+               </l>
+               <l>I can't applaud ſufficiently your Name,</l>
+               <l>I'l leave it to the <hi>Trumpet</hi> then <hi>of Fame.</hi>
+               </l>
+               <l>Time hath, or will, perhaps a <hi>Poet</hi> raiſe,</l>
+               <l>
+                  <hi>Born under better Stars</hi> to ſing your praiſe.</l>
+            </lg>
+            <trailer>Sit Gloria Deo.</trailer>
+         </div>
+         <div type="poem">
+            <head>A Praemonition to the States of <hi>Holland.</hi>
+            </head>
+            <l>NOw why will ye perſiſt? (poor <hi>Hogens</hi>) Durſt</l>
+            <l>Ye thus ſwell with Preſumption 'till ye burſt?</l>
+            <l>We often ſay, and 'tis a <hi>common word,</hi>
+            </l>
+            <l>That <hi>after warning twice, beware the third.</hi>
+            </l>
+            <l>Then if again ye on the Seas can crawl,</l>
+            <l>And riſe, I doubt 'twill only be to fall.</l>
+            <l>('Tis Brandy now indeed, or <hi>Aqua-vitae,</hi>
+            </l>
+            <l>Had need to chear the fainting <hi>High and Mighty.</hi>)</l>
+            <l>Have ye not ſeen a Candle clearly ſhine,</l>
+            <l>Juſt going out, though but a minutes time;</l>
+            <pb n="16" facs="tcp:151335:12"/>
+            <l>Or as ſome perſons juſt before their death,</l>
+            <l>Will pleaſant ſeem juſt at their lateſt breath?</l>
+            <l>So if ye riſe again, 'tis <hi>Signum-mortis,</hi>
+            </l>
+            <l>We 'l gi' ye t' other doſe of <hi>Aqua-fortis;</hi>
+            </l>
+            <l>For ye muſt know our <hi>Engliſh Spirit</hi> is</l>
+            <l>Not Brandy, but <hi>Aqua-mirabilis;</hi>
+            </l>
+            <l>
+               <hi>Admirable</hi> indeed, and is endu'd,</l>
+            <l>Not with a Frenzie, but true Fortitude:</l>
+            <l>For We are not ſo <hi>fooliſh</hi> as to think</l>
+            <l>'Tis any policy to <hi>fight in drink.</hi>
+            </l>
+            <l>Royal Commands oblige all Loyal hearts,</l>
+            <l>Then let <hi>
+                  <g ref="char:V">Ʋ</g>ſurpers</hi> play their <hi>drunken parts;</hi>
+            </l>
+            <l>And let them proudly brave it out <hi>in State,</hi>
+            </l>
+            <l>Till <hi>Amſterdam</hi> hath <hi>pawned all her Plate;</hi>
+            </l>
+            <l>And when all 's done, they 'l find the only thing,</l>
+            <l>Is a ſubmiſſion to a Pious King.</l>
+            <l>Doubtleſs cou'd <hi>Opdam</hi>'s Ghoſt but once appear</l>
+            <l>Unto ye now, He wou'd not proudly <hi>ſwear</hi>
+            </l>
+            <l>
+               <hi>
+                  <g ref="char:V">Ʋ</g>pon the Sacrament;</hi> But tell ye that</l>
+            <l>In plainer tearms, ye muſt expatiate</l>
+            <l>No more your high Ambition, but be</l>
+            <l>Endu'd with more becoming Modeſtie;</l>
+            <l>And that that wou'd be requiſite, and beſt</l>
+            <l>Both for your preſent and your future Reſt.</l>
+            <l>Thus <hi>Maſs'anello</hi>'s Ghoſt (<note n="*" place="margin">
+                  <hi>In</hi> Royal Ar<g ref="char:EOLhyphen"/>bour.</note> preſented 'tis)</l>
+            <l>Once preacht ſuch kind of Doctrine too as this,</l>
+            <l>
+               <hi>That thoſe whom Wickedneſs doth raiſe ſo high,</hi>
+            </l>
+            <l>
+               <hi>Will fall at laſt again to Miſerie.</hi>
+            </l>
+            <l>(And (in ſome ſence) the <hi>States of Holland</hi> be</l>
+            <l>A kind of Fiſhermen as well as he,</l>
+            <l>And do by their Ambition ſwell as high,</l>
+            <l>As ever he, in Popularity.)</l>
+            <l>Then ye may take example by this <hi>Fellow;</hi>
+            </l>
+            <l>I mean the <hi>poorly St<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tely Maſs'anello;</hi>)</l>
+            <l>For he indeed was (it muſt be confeſſed)</l>
+            <l>Diſtreſſed, Mighty, then again diſtreſſed.</l>
+            <l>Your puft up Greatneſs of a windy Riſe,</l>
+            <l>Is fitly figur'd by your own<note n="*" place="margin">In <hi>Amſter<g ref="char:EOLhyphen"/>dam</hi> they have this device, whereby to hint the ſodain downfal of worldly great<g ref="char:EOLhyphen"/>neſs, <hi>viz.</hi> The Picture of a Man with a full blown Bladder on his Shoulders; another ſtand<g ref="char:EOLhyphen"/>ing by, about to prick the Bladder with a Pin; the Motto being <hi>Quam Subito?</hi>
+               </note> 
+               <hi>own Device;</hi>
+            </l>
+            <l>Which by the the ſmalleſt prick expires, So</l>
+            <l>Your <hi>Motto</hi>'s proper too, <hi>Quam Subito?</hi>
+            </l>
+            <pb n="17" facs="tcp:151335:12"/>
+            <l>You'll ſpoil your ſelves by leaping ſuch a height,<note place="margin">The <hi>Aconite</hi> is ſo extreamly loved by the <hi>Panthers,</hi> that being by the ſubtilty of the Huntſman, hung a great height in the Woods, they will with leap<g ref="char:EOLhyphen"/>ing at it ſtrive and kill them<g ref="char:EOLhyphen"/>ſelvs.</note>
+            </l>
+            <l>Like <hi>Panthers</hi> ſtreining for the <hi>Aconite;</hi>
+            </l>
+            <l>Like <hi>Nero</hi>'s Mother, Ye muſt needs be high,</l>
+            <l>Maugre the fatal Sequel. <hi>Then ye die.</hi>
+            </l>
+            <l>Of <hi>Alexander,</hi> 'tis obſerved thus</l>
+            <l>By One, ('tis by <hi>Valerius Maximus,</hi>)</l>
+            <l>When with his Conqueſts proudly ſwelled, he</l>
+            <l>No leſs than <hi>Son of Jupiter</hi> muſt be;</l>
+            <l>He then (forſooth) muſt be a God, no leſs,</l>
+            <l>No longer Man, that Author doth confeſs;</l>
+            <l>Though, That it was (as <hi>Tacitus</hi> implies)</l>
+            <l>One of the <hi>three of his ill qualities.</hi>
+            </l>
+            <l>(The <hi>other two</hi> do both indeed extend,</l>
+            <l>But to an arrogant profuſive end.)</l>
+            <l>Thus, for a time, becauſe ye have been hurl'd</l>
+            <l>Like proſperous Dice by <hi>Fate,</hi> into the World;</l>
+            <l>Muſt ye conceit, that preſently ye are</l>
+            <l>No leſs (forſooth) than <hi>Sons of Jupiter?</hi>
+            </l>
+            <l>Ye, but by <hi>Poor diſtreſſed</hi> lately known,</l>
+            <l>Becauſe to <hi>High and mighty</hi> now y' are grown:</l>
+            <l>Muſt your Brides <hi>Sphear</hi> now no <hi>Horizon</hi> know?</l>
+            <l>Muſt ye needs higher ſtill, and higher grow?</l>
+            <l>Muſt ye like <hi>Ovid</hi>'s Gyants ſwell ſo high,</l>
+            <l>As to contend with <hi>Sacred Majeſtie?</hi>
+            </l>
+            <l>Hath Greatneſs made ye mad, that ye ſo ſoon</l>
+            <l>Muſt, with <hi>Caligula,</hi> needs court the Moon?</l>
+            <l>Does your Ambitious Wheel ſo ſwiftly run,</l>
+            <l>That ye muſt with <hi>Eudoxus</hi> kiſs the Sun?</l>
+            <l>Prethee (poor <hi>Hogens</hi>) do not run ſo faſt,</l>
+            <l>Leaſt ye (like <hi>Phaeton</hi>) fall down at laſt;</l>
+            <l>And (while ye mount ſo high in vain deſire,)</l>
+            <l>So ſet the <hi>Belgick Country</hi> all on fire.</l>
+            <l>(But that is needleſs; For it ſeems we do</l>
+            <l>Fire your Ships; yes, and your Houſes too.)</l>
+            <l>Alas! (but like the <hi>Babel</hi>-builders) ye</l>
+            <l>In your <hi>Luciferous</hi> projectings be.</l>
+            <l>Confuſion muſt needs attend ſuch hopes,</l>
+            <l>Whoſe bold aſpirings have no narrower ſcopes.</l>
+            <l>Then (ye have need enough of, it I'm ſure)</l>
+            <l>Take yet a Soveraign, and eaſie cure.</l>
+            <pb n="18" facs="tcp:151335:13"/>
+            <l>
+               <note place="margin">Suetonius in in vitâ, &amp;c.</note>
+               <hi>Auguſtus Caeſar's</hi> Ingenuity</l>
+            <l>Was much; nor yet was leſs his Clemency:</l>
+            <l>When he by Proclamation did decree,</l>
+            <l>A large <hi>reward</hi> to any that ſhou'd be</l>
+            <l>The happy Victor, to bring him the head</l>
+            <l>Of a then famous Pyrate: (As 'twas s'ed;)</l>
+            <l>The Pyrate hearing this, as boldly came,</l>
+            <l>As wiſely, and laid at his feet the ſame.</l>
+            <l>
+               <hi>Caeſar</hi> then pardoned his paſt offence,</l>
+            <l>And then rewarded too his confidence</l>
+            <l>That he had in his mercy; This may be</l>
+            <l>
+               <hi>(Hogens)</hi> Exemplary, If wiſely ye</l>
+            <l>Will but ſubmit unto his <hi>Royal</hi> will,</l>
+            <l>
+               <hi>Carolus Caeſar</hi> will have mercy ſtill.</l>
+            <l>(I might have ſaid, <hi>Auguſtus Caeſar,</hi> He</l>
+            <l>I hope ye know's <hi>Auguſt</hi> enough for ye.)</l>
+            <l>Do not contend, (Ye muſt at laſt ſubmit,</l>
+            <l>In ſpight of all the <hi>wit</hi> of proud <hi>De Wit.</hi>)</l>
+            <l>But caſt your ſelvs (it is the wiſeſt thing)</l>
+            <l>Upon the <hi>Royal Honor</hi> of a King.</l>
+            <l>A King, that (if ye do it not neglect)</l>
+            <l>Can gallantly reliev ye and protect.</l>
+            <l>All your <hi>French-Mountebanks</hi> can do, ye ſee,</l>
+            <l>Is nothing elſe, but e'en to <hi>take the fee:</hi>
+            </l>
+            <l>And gazing at each other, now each Elf</l>
+            <l>Can only cry, <hi>Phyſitian heal thy ſelf.</hi>
+            </l>
+            <l>But if ye will avoid approaching Fate</l>
+            <l>Then do not <hi>Phrygian</hi>-like repent too late;</l>
+            <l>But ſave the labour (while time doth invite)</l>
+            <l>To either <hi>run-away again,</hi> or fight;</l>
+            <l>Leaſt your <hi>conceited Glory</hi> do expire</l>
+            <l>In vig'rous and condign Blood and Fire.</l>
+            <l>But do not like ſuch <hi>Pſeudo-Martyrs</hi> burn,</l>
+            <l>Prefer an <hi>
+                  <g ref="char:V">Ʋ</g>rim</hi> then before an <hi>
+                  <g ref="char:V">Ʋ</g>rn.</hi>
+            </l>
+            <l>Do but ſubmit to <hi>Charls,</hi> and <hi>Pennance do.</hi>
+            </l>
+            <l>He'l be your <hi>
+                  <g ref="char:V">Ʋ</g>rim,</hi> and your <hi>Thummim</hi> too.</l>
+            <epigraph>
+               <q>
+                  <hi>Faelix quem faciunt aliena pericula cantum.</hi> 
+                  <bibl>Juv.</bibl>
+               </q>
+            </epigraph>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:151335:13"/>
+            <pb facs="tcp:151335:14"/>
+            <pb facs="tcp:151335:14"/>
+         </div>
+      </body>
+   </text>
+</TEI>
